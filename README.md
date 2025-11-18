@@ -31,7 +31,7 @@ Create visualizations of the principal components to interpret patterns and clus
 ```
 /*
 Program to implement Principal Component Analysis (PCA) for dimensionality reduction on the energy data.
-Developed by: Mena Rossini R
+Developed by: Nixan Dass A
 RegisterNumber: 212222040109
 
 
